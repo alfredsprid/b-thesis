@@ -1,1 +1,3 @@
-# b-thesis
+# Programs used in b-thesis
+- R
+- Tableau
